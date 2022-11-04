@@ -1,18 +1,16 @@
-# Getting Started with Create React App
+# Getting Started with this Challenge
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## To Get Started With the Pairing Session
 
-In the project directory, you can run:
+### run `npm start` in the project directory to run app in development mode
 
-### `npm start`
+### Go to Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### See task directions in the home route
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Runs the app in the development mode.
 
 ### `npm test`
 

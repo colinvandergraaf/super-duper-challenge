@@ -1,0 +1,72 @@
+[
+  {
+    "id": 224,
+    "sfid": "a19f40000035AmNAAU",
+    "name": "219 (VP: Mid-level - 8:00am - 10:00am - Ellen Fields)",
+    "group_number": "G219",
+    "guide_id": "001f400001FyKTXAA3"
+  },
+  {
+    "id": 134,
+    "sfid": "a19f40000034PmaAAE",
+    "name": "70 (VP: Mid-level - 8:00am - 10:00am - Starla Sireno)",
+    "group_number": "G70",
+    "guide_id": "001f400001FT0RDAA1"
+  },
+  {
+    "id": 124,
+    "sfid": "a19f40000034PmQAAU",
+    "name": "74 (C-Suite/Executives - 8:00am - 10:00am - Ora Shtull)",
+    "group_number": "G74",
+    "guide_id": "001f400001FT0RPAA1"
+  },
+  {
+    "id": 267,
+    "sfid": "a19f4000003PxwgAAC",
+    "name": "251 (VP: Senior - 8:00am - 10:00am - Alexandra Phillips)",
+    "group_number": "G251",
+    "guide_id": "001f400001J3lyXAAR"
+  },
+  {
+    "id": 270,
+    "sfid": "a19f4000003PxwjAAC",
+    "name": "254 (VP: Senior - 8:00am - 10:00am - Belinda Pruyne)",
+    "group_number": "G254",
+    "guide_id": "001f400001FyKTdAAN"
+  },
+  {
+    "id": 200,
+    "sfid": "a19f40000034mbjAAA",
+    "name": "199 (VP: Mid-level - 10:30am - 12:30pm - Deanna Senior)",
+    "group_number": "G199",
+    "guide_id": "001f400001FT0RaAAL"
+  },
+  {
+    "id": 263,
+    "sfid": "a19f4000001527sAAA",
+    "name": "247 (VP: Senior - 6:30pm - 8:30pm - Michelle Tenzyk)",
+    "group_number": "G247",
+    "guide_id": "001f400001FT0RrAAL"
+  },
+  {
+    "id": 255,
+    "sfid": "a19f40000034mbdAAA",
+    "name": "193 (VP: Senior - 4:00pm - 6:00pm - Val Williams)",
+    "group_number": "G193",
+    "guide_id": "001f400001GgsRZAAZ"
+  },
+  {
+    "id": 265,
+    "sfid": "a19f4000003PxweAAC",
+    "name": "249 (C-Suite/Executives - 4:00pm - 6:00pm - Joanne Heyman)",
+    "group_number": "G249",
+    "guide_id": "001f400001FyKTYAA3"
+  },
+  {
+    "id": 168,
+    "sfid": "a19f40000034geFAAQ",
+    "name": "169 (C-Suite/Executives - 6:30pm - 8:30pm - Ann Whelehan)",
+    "group_number": "G169",
+    "guide_id": "001f400001FT0RsAAL"
+  }
+]
