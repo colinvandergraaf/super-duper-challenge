@@ -16,12 +16,15 @@
 //  }
 
 export const Members = ({ members }) => {
-  <div>
-    <h1>Members</h1>
-    <ul>
-      {members.map((member, idx) => (
-        <li key={`member-${idx}`}>{member.name}</li>
-      ))}
-    </ul>
-  </div>;
+  console.log('hello from members');
+  return (
+    <div>
+      <h1>Members</h1>
+      <ul>
+        {members.map((member, idx) => (
+          <li key={`member-${idx}`}>{member.name}</li>
+        ))}
+      </ul>
+    </div>
+  );
 };

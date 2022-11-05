@@ -41,7 +41,9 @@ class App extends Component {
             <Route path="/members" element={<Members members={this.state.members} />} />
             <Route
               path="/core-groups"
-              element={<CoreGroups coreGroups={this.state.coreGroups} />}
+              element={
+                <CoreGroups coreGroups={this.state.coreGroups} members={this.state.members} />
+              }
             />
           </Routes>
         </div>

@@ -7,14 +7,30 @@
 //    "guide_id": "001f400001FT0RrAAL"
 //  }
 
-export const CoreGroups = ({ coreGroups }) => {
+// if no memebers - display 'No members'
+// we can create any routes or pages
+// or change current routes or pages as long as other routes tay
+
+export const CoreGroups = ({ coreGroups, members }) => {
   return (
     <div>
       <h1> Core Groups</h1>
       <ul>
-        {coreGroups.map((coreGroup) => (
+        {coreGroups.map((coreGroup, idx) => (
           <>
-            <li>{coreGroup.name}</li>
+            <li key={`coreGroup-${idx}`}>{coreGroup.name}</li>
+
+            {members.filter((member) => member.core_group_id === coreGroup.id).length ? (
+              members
+                .filter((member) => member.core_group_id === coreGroup.id)
+                .map(({ name }, idx) => (
+                  <li style={{ listStyle: 'none' }} key={`group-member-${idx}`}>
+                    {name}
+                  </li>
+                ))
+            ) : (
+              <li style={{ listStyle: 'none' }}>No Members</li>
+            )}
           </>
         ))}
       </ul>
