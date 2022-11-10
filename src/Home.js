@@ -8,7 +8,7 @@ export const Home = () => (
         🎉😁
       </span>
     </p>
-    <h2>Agendga</h2>
+    <h2>Agenda</h2>
     <ul>
       <li>React Exercises</li>
       <li>Server Exercises</li>
